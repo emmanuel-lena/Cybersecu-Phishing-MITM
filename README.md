@@ -5,6 +5,8 @@ Pour la partie man-in-the-middle suivez le tuto sur ce lien : https://witestlab.
 
 Pour la partie phishing : https://github.com/kgretzky/evilginx2
 
-Ces tutoriels sont explicites et très clair.
+Ces tutoriels sont explicites et très clairs.
 
 Nous nous tenons à votre disposition si vous avez des questions ou des problèmes.
+
+Bonne chance !
